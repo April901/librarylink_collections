@@ -1,28 +1,213 @@
 {
-  "label": "DC Public Library - July 2021 Book Recommendations",
-  "description": "DC Public Library has selected a variety of great titles July",
+  "label": "Children's Titles to Celebrate Pride Month 2021",
+  "description": "During the Pride Month, DC Public Library invites you to check out these great titles for children and families.",
   "list": [
-    {
-      "label": "The Cardboard Kingdom",
+        {
+      "label": "The Queeriodic Table",
       "isbns": [
-        "9781524719395",
-        "9781524719388"
+        "9781786857521"
+      ]
+    },
+            {
+      "label": "Dark Tears",
+      "isbns": [
+        "9781620974070"
+      ]
+    },
+                {
+      "label": "Sweeter voices Still",
+      "isbns": [
+        "9781948742818"
+      ]
+    },
+                    {
+      "label": "Stonewall",
+      "isbns": [
+        "9780062571700"
+      ]
+    },
+        {
+      "label": "The Queering of Corporate America",
+      "isbns": [
+        "9780807026342"
       ]
     },
     {
-      "label": "Scaredy Squirrel at the Beach",
+      "label": "Love Falls on Us",
       "isbns": [
-        "9781554532254",
-        "9781554539918"
+        "9781786997081"
+      ]
+    },
+                {
+      "label": "Every True Pleasure",
+      "isbns": [
+        "9781469646794"
       ]
     },
     {
-      "label": "Merci Suárez Changes Gears",
+      "label": "Headcase: LGBTQ Writers & Artists on Mental Health and Wellnes",
       "isbns": [
-        "9780763690496",
-        "9781978644540",
-        "9781536204094"
+        "9780190846596"
       ]
     },
-    ]
+        {
+      "label": "The Children of Harvey Milk",
+      "isbns": [
+        "9780190460952"
+      ]
+    },
+    {
+      "label": "JIMMY NEUROSIS: A MEMOIR",
+      "isbns": [
+        "9780062267368"
+      ]
+    },
+                    {
+      "label": "Face it",
+      "isbns": [
+        "9780060749583",
+        "9780062694799"
+      ]
+    },
+    {
+      "label": "James Baldwin: Living in Fire",
+      "isbns": [
+        "9780745338545"
+      ]
+    },
+    {
+      "label": "Queer X Design",
+      "isbns": [
+        "9780762467853"
+      ]
+    },
+    {
+      "label": "We Make It Better",
+      "isbns": [
+        "9781633538207"
+      ]
+    },
+    {
+      "label": "Growing up Queer",
+      "isbns": [
+        "9781479879601"
+      ]
+    },
+        {
+      "label": "Love and Resistance",
+      "isbns": [
+        "9781324002062"
+      ]
+    },
+            {
+      "label": "Embracing the Journey",
+      "isbns": [
+        "9781501195686"
+      ]
+    },
+                    {
+      "label": "Gay Bar: Why We Went Out",
+      "isbns": [
+        "9780316458733",
+	"9781549108198"
+      ]
+    },
+                        {
+      "label": "The Economic Case for LGBT equality",
+      "isbns": [
+        "9780807035603",
+	"9780807035610"
+      ]
+    },
+                            {
+      "label": "Female Husbands: A Trans History",
+      "isbns": [
+        "9781108483803"
+      ]
+    },
+                                {
+      "label": "It's About Damn Time",
+      "isbns": [
+        "9780593136416",
+        "9780593136423"
+      ]
+    },
+                                    {
+      "label": "RuPaul in His Own Words",
+      "isbns": [
+        "9781572842793"
+      ]
+    },
+  {
+      "label": "The Stonewall Generation",
+      "isbns": [
+        "9781558968530"
+      ]
+    },
+      {
+      "label": "The Queer Advantage",
+      "isbns": [
+        "9780306874628",
+	"9780306874604"
+      ]
+    },
+      {
+      "label": "American Fairytale",
+      "isbns": [
+        "9781335215963"
+      ]
+    },
+      {
+      "label": "Archiving an Epidemic",
+      "isbns": [
+        "9781479845309"
+      ]
+    },
+      {
+      "label": "Real Queer America",
+      "isbns": [
+        "9780316516037",
+        "9780316422871"
+      ]
+    },
+      {
+      "label": "The Stonewall Reader",
+      "isbns": [
+        "9780143133513"
+      ]
+    },
+      {
+      "label": "A WILD AND PRECIOUS LIFE: A MEMOIR",
+      "isbns": [
+        "9781250195135",
+	"9781250195142"
+      ]
+    },
+      {
+      "label": "Crossfire: a litany for survival",
+      "isbns": [
+        "9781642590258"
+      ]
+    },
+      {
+      "label": "Art after Stonewall",
+      "isbns": [
+        "9780847864065"
+      ]
+    },
+      {
+      "label": "Pride: The LGBTQ+ Rights Movement",
+      "isbns": [
+        "9781454936558"
+      ]
+    },
+      {
+      "label": "How to love a Country: Poems",
+      "isbns": [
+        "9780807025918",
+	"9781974941322",
+	"9780807025987"
+      ]
+    }
+  ]
 }
