@@ -1,0 +1,29 @@
+{
+  "label": "DC Public Library - July 2021 Book Recommendations",
+  "description": "DC Public Library has selected a variety of great titles July",
+  "list": [
+    {
+      "label": "The Cardboard Kingdom",
+      "isbns": [
+        "9781524719395",
+        "9781524719388"
+      ]
+    },
+    {
+      "label": "Scaredy Squirrel at the Beach",
+      "isbns": [
+        "9781554532254",
+        "9781554539918"
+      ]
+    },
+    {
+      "label": "Merci Suárez Changes Gears",
+      "isbns": [
+        "9780763690496",
+        "9781978644540",
+        "9781536204094"
+      ]
+    },
+    ]
+}
+© 2021 GitHub, Inc.
