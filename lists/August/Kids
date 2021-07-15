@@ -1,0 +1,115 @@
+{
+	"label": "DC Public Library - August 2021 Book Recommendations",
+	"description": "DC Public Library has selected a variety of great titles for August",
+	"label": "Titles to Celebrate Romance Awareness Month",
+	"description": "During Romance Awareness Month, DC Public Library invites you to check out these great titles Kids.",
+	"list": [{
+			"label": "BOOK TITLE",
+			"isbns": [
+				"ISBN",
+				"ISBN",
+        "ISBN"
+			]
+		},
+    {
+			"label": "BOOK TITLE",
+			"isbns": [
+				"ISBN",
+				"ISBN",
+        "ISBN"
+			]
+		},
+    {
+			"label": "BOOK TITLE",
+			"isbns": [
+				"ISBN",
+				"ISBN",
+        "ISBN"
+			]
+		},
+    {
+			"label": "BOOK TITLE",
+			"isbns": [
+				"ISBN",
+				"ISBN",
+        "ISBN"
+			]
+		},
+    {
+			"label": "BOOK TITLE",
+			"isbns": [
+				"ISBN",
+				"ISBN",
+        "ISBN"
+			]
+		},
+    {
+			"label": "BOOK TITLE",
+			"isbns": [
+				"ISBN",
+				"ISBN",
+        "ISBN"
+			]
+		},
+    {
+			"label": "BOOK TITLE",
+			"isbns": [
+				"ISBN",
+				"ISBN",
+        "ISBN"
+			]
+		},
+    {
+			"label": "BOOK TITLE",
+			"isbns": [
+				"ISBN",
+				"ISBN",
+        "ISBN"
+			]
+		},
+    {
+			"label": "BOOK TITLE",
+			"isbns": [
+				"ISBN",
+				"ISBN",
+        "ISBN"
+			]
+		},
+    {
+			"label": "BOOK TITLE",
+			"isbns": [
+				"ISBN",
+				"ISBN",
+        "ISBN"
+			]
+		},{
+			"label": "BOOK TITLE",
+			"isbns": [
+				"ISBN",
+				"ISBN",
+        "ISBN"
+			]
+		},{
+			"label": "BOOK TITLE",
+			"isbns": [
+				"ISBN",
+				"ISBN",
+        "ISBN"
+			]
+		},{
+			"label": "BOOK TITLE",
+			"isbns": [
+				"ISBN",
+				"ISBN",
+        "ISBN"
+			]
+		},{
+			"label": "BOOK TITLE",
+			"isbns": [
+				"ISBN",
+				"ISBN",
+        "ISBN"
+			]
+		}
+ ]
+ }
