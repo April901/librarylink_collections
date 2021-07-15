@@ -1,0 +1,169 @@
+{
+	"label": "DC Public Library - August 2021 Book Recommendations",
+	"description": "DC Public Library has selected a variety of great titles for August",
+	"label": "Teen Titles to Celebrate Romance Awareness Month",
+	"description": "During Romance Awareness Month, DC Public Library invites you to check out these great titles for Teens.",
+	"list": [{
+			"label": "The Sun is Also a Star",
+			"isbns": [
+				"9780553496680",
+				"9781524721381",
+				"9780553496703",
+        "9781524721411"
+			]
+		},
+    {
+			"label": "When Dimple Met Rishi",
+			"isbns": [
+				"9781481478687",
+				"9781520075662",
+				"9781481478700",
+        "9781520075686"
+			]
+		},
+    {
+			"label": "To All the Boys I've Loved Before",
+			"isbns": [
+				"9781442426702",
+				"9781490619385",
+				"9781442426726",
+        "9781490619392"
+			]
+		},
+     {
+			"label": "Frankly in Love",
+			"isbns": [
+				"9780241373439",
+				"9780593105597",
+				"9781984812216",
+        "9780593105627"
+			]
+		}, 
+    {
+			"label": "Blackout",
+			"isbns": [
+				"9780063088092"
+			]
+		},
+         {
+			"label": "The Henna Wars",
+			"isbns": [
+				"9781624149689",
+				"9781624149696",
+				"9780593216576"
+			]
+		},      {
+			"label": "I Wish You All the Best",
+			"isbns": [
+				"9781338306125",
+				"9781338604559",
+				"9781338306132",
+        "9781338357271"
+			]
+    }, 
+        {
+			"label": "Where The Rhythm Takes You",
+			"isbns": [
+				"9780063018525"
+			]
+		},
+        {
+			"label": "Simone Breaks All the Rules",
+			"isbns": [
+				"9781338681727"
+			]
+		},
+    {
+			"label": "It's Not Like it's a Secret",
+			"isbns": [
+				"9780062473417",
+				"9780062473431",
+				"9780062682765"
+			]
+		}, 
+        {
+			"label": "A pho love story",
+			"isbns": [
+				"9781534441934",
+				"9781534441958",
+				"9781797119472"
+			]
+		}, 
+            {
+			"label": "Better Than the Movies",
+			"isbns": [
+				"9781534467620"
+			]
+		},
+            {
+			"label": "Instructions for Dancing ",
+			"isbns": [
+				"9781524718961",
+				"9781524718985"
+			]
+		}, 
+            {
+			"label": "Simon vs. the Homo Sapiens agenda",
+			"isbns": [
+				"9781504615129",
+				"9781504615129",
+				"9780062348692",
+        "9780062411501"
+			]
+		}, 
+            {
+			"label": "American Panda",
+			"isbns": [
+				"9781481499101",
+				"9781481499125",
+				"9781508251101"
+			]
+		}, 
+            {
+			"label": "Hearts Unbroken",
+			"isbns": [
+				"9780763681142",
+				"9781536202007"
+			]
+		}, 
+            {
+			"label": "Odd One Out",
+			"isbns": [
+				"9781101939536",
+				"9780525636052",
+				"9780525635987"
+			]
+		}, 
+            {
+			"label": "This is Kind of an Epic Love Story",
+			"isbns": [
+				"9780062820228",
+				"9780062820242",
+				"9780062855060"
+			]
+		}, 
+            {
+			"label": "Love From A to Z",
+			"isbns": [
+				"9781534442726",
+				"9781534442740",
+				"9781508295372"
+			]
+		}, 
+                {
+			"label": "I Wanna Be Where You Are",
+			"isbns": [
+				"9781250294883",
+				"9781250294890"
+			]
+		}, 
+                {
+			"label": "This is My Brain in Love",
+			"isbns": [
+				"9780316423823",
+				"9780316423854",
+				"9781549132865"
+			]
+		}
+    	]
+}
