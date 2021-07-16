@@ -1,114 +1,134 @@
 {
-	"label": "DC Public Library - August 2021 Book Recommendations",
-	"description": "DC Public Library has selected a variety of great titles for August",
 	"label": "Titles to Celebrate Romance Awareness Month",
-	"description": "During Romance Awareness Month, DC Public Library invites you to check out these great titles Kids.",
+	"description": "During Romance Awareness Month, DC Public Library invites you to check out these great titles for kids.",
 	"list": [{
-			"label": "BOOK TITLE",
-			"isbns": [
-				"ISBN",
-				"ISBN",
-        "ISBN"
+		"label": "Love you forever",
+		"isbns": [
+			"9780920668368"
+			]
+		},
+    	{
+		"label": "The giving tree",
+		"isbns": [
+			"9780060586751",
+        		"9780061965104"
 			]
 		},
     {
-			"label": "BOOK TITLE",
+			"label": "Guess how much I love you",
 			"isbns": [
-				"ISBN",
-				"ISBN",
-        "ISBN"
+				"9780763674489"
 			]
 		},
-    {
-			"label": "BOOK TITLE",
+		    {
+			"label": "Will you be my friend?",
 			"isbns": [
-				"ISBN",
-				"ISBN",
-        "ISBN"
+				"9781536217476"
 			]
 		},
-    {
-			"label": "BOOK TITLE",
+		    {
+			"label": "Lost and found",
 			"isbns": [
-				"ISBN",
-				"ISBN",
-        "ISBN"
+				"9780399245039"
 			]
 		},
-    {
-			"label": "BOOK TITLE",
+		    {
+			"label": "Love Makes a Family",
 			"isbns": [
-				"ISBN",
-				"ISBN",
-        "ISBN"
+				"9780525554226"
 			]
 		},
-    {
-			"label": "BOOK TITLE",
+		    {
+			"label": "The Friend Ship",
 			"isbns": [
-				"ISBN",
-				"ISBN",
-        "ISBN"
+				"9781484707265"
 			]
 		},
-    {
-			"label": "BOOK TITLE",
+		    {
+			"label": "Consider love",
 			"isbns": [
-				"ISBN",
-				"ISBN",
-        "ISBN"
+				"9781442494657"
 			]
 		},
-    {
-			"label": "BOOK TITLE",
+				    {
+			"label": "Homemade love",
 			"isbns": [
-				"ISBN",
-				"ISBN",
-        "ISBN"
+				"9781484799352"
 			]
 		},
-    {
-			"label": "BOOK TITLE",
+				    {
+			"label": "The Sandwich Swap",
 			"isbns": [
-				"ISBN",
-				"ISBN",
-        "ISBN"
+				"9781423124849"
 			]
 		},
-    {
-			"label": "BOOK TITLE",
+				    {
+			"label": "How do dinosaurs stay friends?",
 			"isbns": [
-				"ISBN",
-				"ISBN",
-        "ISBN"
+				"9780545829342"
 			]
-		},{
-			"label": "BOOK TITLE",
+		},
+				    {
+			"label": "The Rainbow Fish",
 			"isbns": [
-				"ISBN",
-				"ISBN",
-        "ISBN"
+				"9781558580091"
 			]
-		},{
-			"label": "BOOK TITLE",
+		},
+				    {
+			"label": "I'll Love You Till the Cows Come Home",
 			"isbns": [
-				"ISBN",
-				"ISBN",
-        "ISBN"
+				"9780062574206"
 			]
-		},{
-			"label": "BOOK TITLE",
+		},
+						    {
+			"label": "Like the Moon Loves the Sky",
 			"isbns": [
-				"ISBN",
-				"ISBN",
-        "ISBN"
+				"9781452180199",
+				"9781797206066"
 			]
-		},{
-			"label": "BOOK TITLE",
+		},
+						    {
+			"label": "I Love You, Stinky Face",
 			"isbns": [
-				"ISBN",
-				"ISBN",
-        "ISBN"
+				"9780816743926"
+			]
+		},
+						    {
+			"label": "If my love were a fire truck : a daddy's love song",
+			"isbns": [
+				"9781101937402"
+			]
+		},
+						    {
+			"label": "My Papi Has a Motorcycle",
+			"isbns": [
+				"9780525553410"
+			]
+		},
+   						    {
+			"label": "The Wonderful Things You Will Be",
+			"isbns": [
+				"9780385376716",
+				"9780375982187"
+			]
+		},
+								    {
+			"label": "Friends",
+			"isbns": [
+				"9780399172069"
+			]
+		},
+		  						    {
+			"label": "Nelly Gnu and Daddy Too",
+			"isbns": [
+				"9780670012275",
+				"9780698144866"
+			]
+		},
+										    {
+			"label": "Love from the very hungry caterpillar",
+			"isbns": [
+				"9780448489322"
 			]
 		}
  ]
