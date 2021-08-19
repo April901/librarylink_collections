@@ -1,1 +1,216 @@
-
+{
+  "label": "Titles to Celebrate X Month",
+  "description": "During X Month, DC Public Library invites you to check out these great titles for Adults.",
+  "list": [
+        {
+      "label": "Homegoing",
+      "isbns": [
+        "9781101947135",
+        "9780451484192",
+        "9781101947142"
+               ]
+        },
+            {
+      "label": "Exiles of Eden",
+      "isbns": [
+        "9781566895446",
+        "9781566895538"
+               ]
+        },
+             {
+      "label": "The Book of Memory",
+      "isbns": [
+        "9780865479074",
+        "9780374714888"
+               ]
+        },
+             {
+      "label": "Aya",
+      "isbns": [
+        "9781894937900"
+               ]
+        },
+                 {
+      "label": "Evening primrose",
+      "isbns": [
+        "9781635060324",
+        "9781635060355"
+               ]
+        },
+                     {
+      "label": "This Mournable Body",
+      "isbns": [
+        "9781555978129",
+        "9781555978624",
+        "9781684410378"
+               ]
+        },
+                     {
+      "label": "The Hairdresser of Harare",
+      "isbns": [
+        "9780821421635",
+        "9780821445297"
+               ]
+        },
+                             {
+      "label": "The Shadow King",
+      "isbns": [
+        "9780393083569",
+        "9780393651096"
+               ]
+        },
+                                     {
+      "label": "Woza Afrika!: an anthology of South African plays",
+      "isbns": [
+        "9780807611692"
+               ]
+        },
+                                         {
+      "label": "At Night All Blood is Black",
+      "isbns": [
+        "9780374266974",
+        "9780374720476"
+               ]
+        },
+                                                 {
+      "label": "His Only Wife",
+      "isbns": [
+        "9781616209155",
+        "9781664462366",
+        "9781643751115",
+        "9781649040107"        
+               ]
+        },
+                                                         {
+      "label": "The Girl with the Louding Voice",
+      "isbns": [
+        "9781524746094",
+        "9780593339862",
+        "9781524746087",
+        "9780593168738"
+               ]
+        },
+                                                             {
+      "label": "Devil on the Cross",
+      "isbns": [
+        "9780143107361",
+        "9781101634868"
+               ]
+        },
+                                                                 {
+      "label": "Transcendent Kingdom",
+      "isbns": [
+        "9781524711771",
+        "9780593215333",
+        "9780593215302",
+        "9780525658191",
+        "9780593215326"
+               ]
+        },
+                                                                     {
+      "label": "Freshwater",
+      "isbns": [
+        "9780802127358",
+        "9781684410408",
+        "9780802165565",
+        "9781684410415"
+               ]
+        },
+                                                                         {
+      "label": "Dear Senthuran: A Black Spirit Memoir",
+      "isbns": [
+        "9780593329191",
+        "9780593329214",
+        "9780593412534"
+               ]
+        },
+                                                                         {
+      "label": "The Death of Vivek Oji",
+      "isbns": [
+        "9780525541608",
+        "9780593286029",
+        "9780525541615",
+        "9780593211489"
+               ]
+        },
+                                                                             {
+      "label": "My Sister, the Serial Killer",
+      "isbns": [
+        "9780525564201",
+        "9781432860219",
+        "9780385544245",
+        "9780525643296"
+               ]
+        },
+                                                                             {
+      "label": "We Need New Names",
+      "isbns": [
+        "9780316230841",
+        "9781624066382",
+        "9780316255936",
+        "9781624066399"
+               ]
+        },
+                                                                             {
+      "label": "Behold the Dreamers",
+      "isbns": [
+        "9780812998481",
+        "9780147523099",
+        "9780812998498",
+        "9780147523129"
+               ]
+        },
+                                                                             {
+      "label": "The Dragons, The Giant, The Women ",
+      "isbns": [
+        "9781644450314",
+        "9781721366378",
+        "9781644451281"
+               ]
+        },
+                                                                             {
+      "label": "The Kindness of Enemies",
+      "isbns": [
+        "9780802124487",
+        "9780802190178"
+               ]
+        },
+                                                                             {
+      "label": "The Punishment",
+      "isbns": [
+        "9780300243024"
+               ]
+        },
+                                                                             {
+      "label": "Decolonising the mind : the politics of language in African literature",
+      "isbns": [
+        "9780435080167"
+               ]
+        },
+                                                                             {
+      "label": "The perfect nine: the epic of Gĩkũyũ and Mũmbi",
+      "isbns": [
+        "9780435080167"
+               ]
+        },
+                                                                                     {
+      "label": "The death of comrade president",
+      "isbns": [
+        "9781620976067",
+        "9781620976074"
+               ]
+        },
+                                                                                     {
+      "label": "Of Africa",
+      "isbns": [
+        "9780300140460"
+               ]
+        },
+                                                                                             {
+      "label": "The Interpreters",
+      "isbns": [
+        "9780593467213"
+               ]
+        }
+  ]
+}   
