@@ -1,0 +1,112 @@
+{
+  "label": "Titles to Celebrate African Heritage Month",
+  "description": "During African Heritage Month, DC Public Library invites you to check out these great titles for Teens.",
+  "list": [
+        {
+      "label": "Aya : Life in Yop City",
+      "isbns": [
+        "9781770460829",
+        "9781770465589"
+               ]
+        },
+            {
+      "label": "Shuri. 1, The search for Black Panther",
+      "isbns": [
+        "9781302915230",
+        "9781302510756"
+               ]
+        },
+             {
+      "label": "Between sisters",
+      "isbns": [
+        "9780888999962"
+               ]
+        },
+             {
+      "label": "The Gilded Ones",
+      "isbns": [
+        "9781984848697",
+        "9781984848703",
+        "9780593207833"
+               ]
+        },
+                 {
+      "label": "Every Body Looking",
+      "isbns": [
+        "9780525556206",
+        "9780525556213",
+        "9780593288436"
+               ]
+        },
+                     {
+      "label": "Mirage",
+      "isbns": [
+        "9781250126429",
+        "9781250299307"
+               ]
+        },
+                     {
+      "label": "Raybearer",
+      "isbns": [
+        "9781419739828",
+        "9781683357193",
+        "9781094149219"
+               ]
+        },
+                             {
+      "label": "Pet",
+      "isbns": [
+        "9780525647072",
+        "9780593153994",
+        "9780525647096",
+        "9780593104958"
+               ]
+        },
+                                     {
+      "label": "Children of Blood and Bone",
+      "isbns": [
+        "9781250170972",
+        "9781427295514",
+        "9781250170989",
+        "9781427295507"
+               ]
+        },
+                                         {
+      "label": "Ace of Spades",
+      "isbns": [
+        "9781250800817",
+        "9781250800824"
+               ]
+        },
+                                                 {
+      "label": "A Girl is a Body of Water ",
+      "isbns": [
+        "9781951142049",
+        "9781951142056"
+               ]
+        },
+                                                         {
+      "label": "Akata warrior",
+      "isbns": [
+        "9780670785612",
+        "9781977302434",
+        "9781101598986",
+        "9781977322432"
+               ]
+        },
+                                                             {
+      "label": "Like Home",
+      "isbns": [
+        "9780593172605"
+               ]
+        },
+                                                                 {
+      "label": "Buried Beneath the Baobab Tree",
+      "isbns": [
+        "9780062696724",
+        "9780062890214",
+        "9780062696748"  
+               ]
+        }
+  ]
+}   
