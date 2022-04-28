@@ -1,0 +1,218 @@
+{
+  "label": "DC Public Library - Recommended Teen Reads for Asian Pacific American Heritage Month",
+  "description": "May is Asian Pacific American Heritage Month (APAHM), celebrating the achievements and contributions of Asian Americans and Pacific Islanders in the United States. This May, the library has selected great YA titles to help you celebrate APAHM!",
+  "list": [
+    {
+      "label": "Butterfly Yellow",
+      "isbns": [
+        "9780062229212",
+        "9780062229236",
+        "9780062964328"
+      ]
+    },
+     {
+      "label": "Himawari House",
+      "isbns": [
+        "9781250235565",
+        "9781250861061"
+      ]
+    },   
+     {
+      "label": "A Map to the Sun",
+      "isbns": [
+        "9781250146687",
+        "9781250802484"
+      ]
+    },       
+    {
+      "label": "The Marvelous Mirza Girls",
+      "isbns": [
+        "9780062845481",
+        "9780062845504",
+        "9780063064331"
+      ]
+    },    
+        {
+      "label": "The Ones We're Meant to Find",
+      "isbns": [
+        "9781250258564",
+        "9781250258571",
+        "9781666124255"
+      ]
+    },  
+     {
+      "label": "Messy Roots : A Graphic Memoir of A Wuhanese American",
+      "isbns": [
+        "9780063067776",
+        "9780063067783"
+      ]
+    },     
+     {
+      "label": "Sunny G's Series of Rash Decisions",
+      "isbns": [
+        "9780593109984",
+        "9780593411315"
+      ]
+    },      
+     {
+      "label": "The Surprising Power of A Good Dumpling",
+      "isbns": [
+        "9781338656114",
+        "9781338656121"
+      ]
+    },      
+     {
+      "label": "Yolk",
+      "isbns": [
+        "9781534446007",
+        "9781534446021",
+        "9781797117867"
+      ]
+    },       
+     {
+      "label": "We Are Totally Normal",
+      "isbns": [
+        "9780062865830"
+      ]
+    },     
+     {
+      "label": "A Thousand Steps Into Night",
+      "isbns": [
+        "9780358469988",
+        "9780358469995",
+        "9780358639565"
+      ]
+    },     
+           {
+      "label": "Always and Forever, Lara Jean",
+      "isbns": [
+        "9781481430500",
+        "9781501942204"
+      ]
+    },
+    {
+      "label": "Frankly in Love",
+      "isbns": [
+        "9780593105597"
+      ]
+    },
+    {
+      "label": "Internment",
+      "isbns": [
+        "9781549148767",
+        "9781549178887"
+      ]
+    },
+    {
+      "label": "Rani Patel in Full Effect",
+      "isbns": [
+        "9781941026519"
+      ]
+    },
+    {
+      "label": "The Astonishing Color of After",
+      "isbns": [
+        "9781549197154"
+      ]
+    },
+        {
+      "label": "This Time Will Be Different",
+      "isbns": [
+        "9780062473462"
+      ]
+    },
+            {
+      "label": "Pashmina",
+      "isbns": [
+        "9781250192264"
+      ]
+    },
+                {
+      "label": "They Called Us Enemy",
+      "isbns": [
+        "9781684067510"
+      ]
+    },
+                {
+      "label": "Americanized: Rebel Without a Green Card",
+      "isbns": [
+        "9781524717810"
+      ]
+    },
+                {
+      "label": "A Girl Like That",
+      "isbns": [
+        "9780374305451"
+      ]
+    },
+                {
+      "label": "A Thousand Beginnings and Endings",
+      "isbns": [
+        "9780062671172"
+      ]
+    },
+                {
+      "label": "The Girl King",
+      "isbns": [
+        "9781681198903"
+      ]
+    },
+                {
+      "label": "Girls of Paper and Fire",
+      "isbns": [
+        "9780316561402",
+        "9781549176364"
+      ]
+    },
+                {
+      "label": "I Hope You Get This Message",
+      "isbns": [
+        "9780062741479"
+      ]
+    },
+                {
+      "label": "I Love You So Mochi",
+      "isbns": [
+        "9781338302899"
+      ]
+    },
+                {
+      "label": "Spin the Dawn",
+      "isbns": [
+        "9780525647010",
+        "9781984884541"
+      ]
+    },
+                {
+      "label": "Warcross",
+      "isbns": [
+        "9780399547980",
+        "9780525495222"
+      ]
+    },
+                {
+      "label": "Want",
+      "isbns": [
+        "9781481489249"
+      ]
+    },
+               {
+      "label": "Darkness Under the Sun",
+      "isbns": [
+        "9780440423478"
+      ]
+    },
+               {
+      "label": "Wicked Fox",
+      "isbns": [
+        "9781984812353"
+      ]
+    },
+               {
+      "label": "Laura Dean Keeps Breaking Up with Me",
+      "isbns": [
+        "9781250261540"
+      ]
+    }
+  ]
+}
