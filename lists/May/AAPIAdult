@@ -1,0 +1,321 @@
+{
+  "label": "DC Public Library - Recommended Adult Reads for Asian American Pacific Islander Heritage Month",
+  "description": "May is Asian American Pacific Islander American Heritage Month (AAPIHM), celebrating the achievements and contributions of Asian Americans and Pacific Islanders in the United States. This May, the library has selected great adult titles to help you celebrate AAPIAHM!",
+  "list": [
+    {
+      "label": "Dial A for Aunties",
+      "isbns": [
+        "9780593336731",
+        "9780593333044",
+        "9780593347867"
+      ]
+    },  
+    {
+      "label": "Afterparties : stories",
+      "isbns": [
+        "9780063049901",
+        "9780063049918",
+        "9780063049925"
+      ]
+    },    
+    {
+      "label": "The Thousand Crimes of Ming Tsu",
+      "isbns": [
+        "9780316542159",
+        "9780316270588",
+        "9781549138478"
+      ]
+    },    
+     {
+      "label": "Funny boy",
+      "isbns": [
+        "9780062392985",
+        "9780062383464"
+      ]
+    },   
+     {
+      "label": "The Donut Trap",
+      "isbns": [
+        "9780063069800",
+        "9780063069817"
+      ]
+    }, 
+    {
+      "label": "The parted earth",
+      "isbns": [
+        "9781938235771",
+        "9781938235788"
+      ]
+    },    
+    {
+      "label": "She who became the sun",
+      "isbns": [
+        "9781250621801",
+        "9781250621795",
+        "9781250807809"
+      ]
+    },   
+    {
+      "label": "A tale for the time being",
+      "isbns": [
+        "9780670026630",
+        "9781101606254",
+        "9781481573146"
+      ]
+    }, 
+    {
+      "label": "Beasts of a little land",
+      "isbns": [
+        "9780063093577",
+        "9780063093591",
+        "9780063093607"
+      ]
+    }, 
+    {
+      "label": "Win me something",
+      "isbns": [
+        "9781951142735",
+        "9781951142810"
+      ]
+    },   
+    {
+      "label": "Long live the tribe of fatherless girls",
+      "isbns": [
+        "9781635571851",
+        "9781635571868"
+      ]
+    },    
+    {
+      "label": "Not quite not white : losing and finding race in America",
+      "isbns": [
+        "9780143131380",
+        "9781524705121"
+      ]
+    },    
+    {
+      "label": "Serve the people : making Asian America in the long sixties",
+      "isbns": [
+        "9781781688625",
+        "9781781688649"
+      ]
+    },    
+    {
+      "label": "Chinatown pretty : fashion and wisdom from Chinatown's most stylish seniors",
+      "isbns": [
+        "9781452175805"
+      ]
+    },   
+    {
+      "label": "Good talk : a memoir in conversations",
+      "isbns": [
+        "9780399589041",
+        "9780399589058",
+        "9780593105528"
+      ]
+    },   
+    {
+      "label": "Concepcion : an immigrant family's fortunes",
+      "isbns": [
+        "9780593086087",
+        "9780593086100"
+      ]
+    }, 
+    {
+      "label": "Sigh, gone : a misfit's memoir of great books, punk rock, and the fight to fit in",
+      "isbns": [
+        "9781250194718",
+        "9781250194725",
+        "9781250261236"
+      ]
+    }, 
+        {
+      "label": "The loneliest Americans",
+      "isbns": [
+        "9780525576228",
+        "9780525576242",
+        "9780593506349"
+      ]
+    }, 
+         {
+      "label": "Antiman : a hybrid memoir",
+      "isbns": [
+        "9781632062802"
+      ]
+    },    
+         {
+      "label": "Crying in H Mart",
+      "isbns": [
+        "9780525657743",
+        "9780525657750",
+        "9780593153901"
+      ]
+    },   
+    {
+      "label": "Minor Feelings",
+      "isbns": [
+        "9781984820389",
+        "9781984820372",
+        "9780593164754"
+      ]
+    },
+    {
+      "label": "Trick Mirror",
+      "isbns": [
+        "9780525510543",
+        "9780525510550",
+        "9780525624479"
+      ]
+    },
+    {
+      "label": "On Earth We're Briefly Gorgeous",
+      "isbns": [
+        "9780525562023",
+        "9780593104293",
+        "9780525562030",
+        "9781984888853"
+      ]
+    },
+    {
+      "label": "Interior Chinatown",
+      "isbns": [
+        "9780307907196",
+        "9781432878924",
+        "9780307907202",
+        "9780593148723"
+      ]
+    },
+    {
+      "label": "Little Fires Everywhere",
+      "isbns": [
+        "9780143135166",
+        "9780525498773",
+        "9781984832924",
+        "9780735224308",
+        "9780525498094"
+      ]
+    },
+        {
+      "label": "All You Can Ever Know",
+      "isbns": [
+        "9781936787975",
+        "9781432860226",
+        "9781684414000",
+        "9781936787982",
+        "9781684414017"
+      ]
+    },
+            {
+      "label": "Sour Heart",
+      "isbns": [
+        "9780399589409",
+        "9780399589393",
+        "9781524776565"
+      ]
+    },
+                {
+      "label": "Pachinko",
+      "isbns": [
+        "9781455563920",
+        "9781455569496",
+        "9781455569656",
+        "9781478945499"
+      ]
+    },
+                {
+      "label": "Dear America: Notes of an Undocumented Citizen",
+      "isbns": [
+        "9780062851352",
+        "9780062860972",
+        "9780062914965",
+        "9780062851369"
+      ]
+    },
+                {
+      "label": "America is Not the Heart",
+      "isbns": [
+        "9780735222410",
+        "9781432852764",
+        "9780735222434"
+      ]
+    },
+                {
+      "label": "The Sympathizer",
+      "isbns": [
+        "9780802123459",
+        "9780802191694"
+      ]
+    },
+                {
+      "label": "The Kiss Quotient",
+      "isbns": [
+        "9780451490803",
+        "9781974900466",
+        "9780451490810",
+        "9781974900480"
+      ]
+    },
+                {
+      "label": "The White Tiger",
+      "isbns": [
+        "9781416562597",
+        "9781400136650",
+        "9781416562733",
+        "9781400126651"
+      ]
+    },
+                {
+      "label": "Pride, Prejudice, and other Flavors",
+      "isbns": [
+        "9780062839053",
+        "9780062934338",
+        "9780062839060",
+        "9780062934307"
+      ]
+    },
+                {
+      "label": "The Making of Asian America",
+      "isbns": [
+        "9781476739403",
+        "9781476739427",
+        "9781494594541"
+      ]
+    },
+                {
+      "label": "The Joy Luck Club",
+      "isbns": [
+        "9780399134203",
+        "9781101502730"
+      ]
+    },
+               {
+      "label": "The Key to Happily Ever After",
+      "isbns": [
+        "9781501197581",
+        "9781501197598"
+      ]
+    },
+               {
+      "label": "Klara and the Sun",
+      "isbns": [
+        "9780593318171",
+        "9780593318188",
+        "9780593349304"
+      ]
+    },
+                   {
+      "label": "Night Sky with Exit Wounds",
+      "isbns": [
+        "9781556594953",
+        "9781619321564"
+      ]
+    },
+                   {
+      "label": "The Namesake",
+      "isbns": [
+        "9780358062684",
+        "9780547429311",
+        "9781415944769"
+      ]
+    }
+  ]
+}
