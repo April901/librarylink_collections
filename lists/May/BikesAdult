@@ -1,1 +1,208 @@
+{
+  "label": "DC Public Library - Bike Month Reads for Adults",
+  "description": "May is Bike Month! Celebrate the joy of riding around your neighborhood on two wheels with these great adult titles.",
+  "list": [
+      {
+      "label": "Changing Gears: a distant teen, a desperate mother, and 4,329 miles across the Transamerican Bicycle Trail",
+      "isbns": [
+        "9781641706544"
+      ]
+    },
+          {
+      "label": "Best easy bike rides Washington, DC",
+      "isbns": [
+        "9781493053919",
+        "9781493053926"
+      ]
+    },    
+    
+          {
+      "label": "From rails to trails: the making of America's active transportation network",
+      "isbns": [
+        "9781496222060",
+        "9781496226532"
+      ]
+    },
+        {
+      "label": "E-bike : a guide to E-bike models, technology & riding essentials",
+      "isbns": [
+        "9781948007146"
+      ]
+    },
+    {
+      "label": "Bicycling Through Time The Farren Collection",
+      "isbns": [
+        "9781864709193"
+      ]
+    },
+    {
+      "label": "Bicycle repair manual",
+      "isbns": [
+        "9780744028515",
+        "9780744048018"
+      ]
+    },
+        {
+      "label": "Ride : cycle the world",
+      "isbns": [
+        "9780744028850",
+        "9780744047202"
+      ]
+    },
+    {
+      "label": "The official history of the Tour de France",
+      "isbns": [
+        "9781787396685"
+      ]
+    },    
+    {
+      "label": "Bicycling with butterflies : my 10,201-mile journey following the monarch migration",
+      "isbns": [
+        "9781643260457"
+      ]
+    },        
+    {
+      "label": "Sprinting through no man's land : endurance, tragedy, and rebirth in the 1919 Tour de France",
+      "isbns": [
+        "9781542018838"
+      ]
+    },        
+    {
+      "label": "Ride inside : the essential guide to get the most out of indoor cycling, smart trainers, classes, and apps",
+      "isbns": [
+        "9781948007139"
+      ]
+    },        
+     {
+      "label": "Basic illustrated bike touring and bikepacking",
+      "isbns": [
+        "9781493009688",
+        "9781493019236"
+      ]
+    },       
+     {
+      "label": "The cyclist who went out in the cold : adventures riding the Iron Curtain",
+      "isbns": [
+        "9781681772998",
+        "9781681773674"
+      ]
+    },    
+     {
+      "label": "Revolutions : how women changed the world on two wheels",
+      "isbns": [
+        "9780593083604",
+        "9780593083611"
+      ]
+    },    
 
+    {
+      "label": "How Cycling Can Save the World",
+      "isbns": [
+        "9780143111771",
+        "9781101993033"
+      ]
+    },
+    {
+      "label": "On Bicycles: 50 Ways the New Bike Culture Can Change Your Life",
+      "isbns": [
+        "9781608680238"
+      ]
+    },
+    {
+      "label": "The girls' bicycle handbook : everything you need to know about life on two wheels",
+      "isbns": [
+        "9781623651497"
+      ]
+    },
+    {
+      "label": "Building the cycling city : the Dutch blueprint for urban vitality",
+      "isbns": [
+        "9781610918794",
+        "9781610918800"
+      ]
+    },
+            {
+      "label": "Epic Bike Rides of the Americas",
+      "isbns": [
+        "9781788682572",
+        "9781788685245"
+      ]
+    },
+                {
+      "label": "Bicycle Diaries",
+      "isbns": [
+        "9780670021147",
+        "9781101464397"
+      ]
+    },
+                {
+      "label": "The ultimate bicycle owner's manual : the universal guide to bikes, riding, and everything for beginner and seasoned cyclists",
+      "isbns": [
+        "9780316352680"
+      ]
+    },
+                {
+      "label": "Escape by bike : adventure cycling, bikepacking and touring off-road : with over 200 illustrations",
+      "isbns": [
+        "9780500293508"
+      ]
+    },
+                {
+      "label": "Zinn & the art of road bike maintenance : the world's best-selling bicycle repair and maintenance guide",
+      "isbns": [
+        "9781934030981"
+      ]
+    },
+                {
+      "label": "Bicycle repair manual",
+      "isbns": [
+        "9781465456274"
+      ]
+    },
+                {
+      "label": "Outpedaling 'the Big C' : my healing cycle across America",
+      "isbns": [
+        "9781610885140",
+        "9781610885164"
+      ]
+    },
+                {
+      "label": "Mountain biking the Washington D.C./Baltimore area : an atlas of Northern Virginia, Maryland, and D.C.'s greatest off-road bicycle rides",
+      "isbns": [
+        "9781493006014"
+      ]
+    },
+                {
+      "label": "Major : a black athlete, a White era, and the fight to be the world's fastest human being",
+      "isbns": [
+        "9781621060017"
+      ]
+    },
+                {
+      "label": "The comeback : Greg LeMond, the true king of American cycling, and a legendary Tour de France",
+      "isbns": [
+        "9780802127945"
+      ]
+    },
+                {
+      "label": "Ask a pro : deep thoughts and unreliable advice from America's foremost cycling sage",
+      "isbns": [
+        "9781937715724",
+        "9781541403246"
+      ]
+    },
+               {
+      "label": "South away : the Pacific Coast on two wheels",
+      "isbns": [
+        "9781988732633"
+      ]
+    },
+               {
+      "label": "Ten points : a father's promise, a daughter's wish--how magical season of bicycle riding made it all come true",
+      "isbns": [
+        "9781401302580",
+        "9781415941607"
+      ]
+    }
+  ]
+}
