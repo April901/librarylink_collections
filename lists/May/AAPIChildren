@@ -1,0 +1,249 @@
+{
+  "label": "DC Public Library - Recommended Children's Reads for Asian Pacific American Heritage Month",
+  "description": "May is Asian Pacific American Heritage Month (APAHM), celebrating the achievements and contributions of Asian Americans and Pacific Islanders in the United States. This May, the library has selected great childrens titles to help you celebrate APAHM!",
+  "list": [
+    {
+      "label": "The Big Bath House",
+      "isbns": [
+        "9780593181959",
+        "9780593181973"
+      ]
+    },
+    {
+      "label": "Dream, Annie, Dream",
+      "isbns": [
+        "9780063017184",
+        "9780063017191"
+      ]
+    },    
+    {
+      "label": "Bindu's Bindis",
+      "isbns": [
+        "9781454940203"
+      ]
+    },     
+    {
+      "label": "Eyes That Speak to the Stars",
+      "isbns": [
+        "9780063057753",
+        "9780063220140"
+      ]
+    },        
+     {
+      "label": "Finding Junie Kim",
+      "isbns": [
+        "9780062987983",
+        "9780062988003",
+        "9780063085459"
+      ]
+    },    
+    {
+      "label": "I'll Go and Come Back",
+      "isbns": [
+        "9781536207170"
+      ]
+    },     
+    {
+      "label": "I Am Golden",
+      "isbns": [
+        "9781250869616"
+      ]
+    },       
+    {
+      "label": "The Katha Chest",
+      "isbns": [
+        "9781665903912"
+      ]
+    },       
+     {
+      "label": "Maizy Chen's Last Chance",
+      "isbns": [
+        "9781984830289",
+        "9780593505755"
+      ]
+    },     
+     {
+      "label": "Love in the Library",
+      "isbns": [
+        "9781536225747",
+        "9781666530186"
+      ]
+    },         
+     {
+      "label": "The Many Meanings of Meilan",
+      "isbns": [
+        "9780593111291",
+        "9780593459157"
+      ]
+    },      
+      {
+      "label": "My Love for You Is Always",
+      "isbns": [
+        "9780593203071",
+        "9780593203095"
+      ]
+    },      
+      {
+      "label": "My Name Is Bana",
+      "isbns": [
+        "9781534412484",
+        "9781534412507"
+      ]
+    },           
+      {
+      "label": "New From Here",
+      "isbns": [
+        "9781534488304",
+        "9781534488328",
+        "9781797136608"
+      ]
+    },     
+      {
+      "label": "Red, White, and Whole",
+      "isbns": [
+        "9780063047426",
+        "9780063047440",
+        "9780063047457"
+      ]
+    },     
+       {
+      "label": "Room to Dream",
+      "isbns": [
+        "9781338621129",
+        "9781338621150"
+      ]
+    },    
+       {
+      "label": "Unsettled",
+      "isbns": [
+        "9780063044708",
+        "9780063044722"
+      ]
+    },       
+       {
+      "label": "When Lola Visits",
+      "isbns": [
+        "9780062972859",
+        "9780063089723"
+      ]
+    },       
+        {
+      "label": "Where Thương Keeps Love",
+      "isbns": [
+        "9781513289441"
+      ]
+    },     
+    {
+      "label": "Lost and Found Cat",
+      "isbns": [
+        "9781974900107"
+      ]
+    },    
+            {
+      "label": "Hello Universe",
+      "isbns": [
+        "9780062414175",
+        "9780062661654"
+      ]
+    },
+                {
+      "label": "Inside Out and Back Again",
+      "isbns": [
+        "9780062069726",
+        "9781464020988"
+      ]
+    },
+                {
+      "label": "It Aint So Awful Falafel",
+      "isbns": [
+        "9780544612372"
+      ]
+    },
+                    {
+      "label": "More to the Story",
+      "isbns": [
+        "9781481492119"
+      ]
+    },
+                    {
+      "label": "Other Words for Home",
+      "isbns": [
+        "9780062747822"
+      ]
+    },
+                    {
+      "label": "The Gauntlet",
+      "isbns": [
+        "9781481486989"
+      ]
+    },
+                    {
+      "label": "The Night Diary",
+      "isbns": [
+        "9780735228535",
+        "9780525530459"
+      ]
+    },
+                    {
+      "label": "Drawn Together",
+      "isbns": [
+        "9780316667814"
+      ]
+    },
+                    {
+      "label": "Grandmother's Visit",
+      "isbns": [
+        "9781554989553"
+      ]
+    },
+                    {
+      "label": "Like the Moon Loves the Sky",
+      "isbns": [
+        "9781797206066"
+      ]
+    },
+                    {
+      "label": "The Opposite Zoo",
+      "isbns": [
+        "9780553511291"
+      ]
+    },
+                    {
+      "label": "The Proudest Blue",
+      "isbns": [
+        "9780316518994",
+        "9781549127328"
+      ]
+    },
+                    {
+      "label": "Everlasting Nora",
+      "isbns": [
+        "9781250304254"
+      ]
+    },
+                    {
+      "label": "Midsummer's Mayhem",
+      "isbns": [
+        "9781982689469"
+      ]
+    },
+                    {
+      "label": "Spirit Hunters",
+      "isbns": [
+        "9780062430106"
+      ]
+    },
+                    {
+      "label": "Stargazing",
+      "isbns": [
+        "9781250754523"
+      ]
+    },
+                        {
+      "label": "When You Trap a Tiger",
+      "isbns": [
+        "9781524715724"
+      ]
+    }
+  ]
+}
